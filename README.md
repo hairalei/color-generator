@@ -1,3 +1,7 @@
-#### Values JS
+# Color generator using ReactJS
 
-[values.js](https://github.com/noeldelgado/values.js)
+- Generates color palette based on user's input of base color.
+
+- Has copy to clipboard feature
+
+## Link preview
