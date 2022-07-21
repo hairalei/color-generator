@@ -5,3 +5,7 @@
 - Has copy to clipboard feature
 
 ## Link preview
+
+https://color-generator-ebon.vercel.app/
+
+![color-generator](public/ColorGenerator.gif)
